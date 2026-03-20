@@ -3,6 +3,7 @@
 > **“Hans” — Where Gold Meets Grace**  
 > A fully interactive, bilingual, single-file landing page for Satyam Jewellers, Gaya, Bihar.
 
+Live at https://santos-k.github.io/satyem-jewellers/
 -----
 
 ## 📋 Overview
